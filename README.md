@@ -3,12 +3,14 @@
 <h4 align="center">Soy un Desarroollador web con muchas ganas de colaborar en proyectos del mundo real y poder aprender mucho. <a href="https://github.com/resendiz1" target="_blank">GitHub</a> para proyectos.</h4>
 </div>
 
+<br>
+<br>
+<br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
 ### 🛠 &nbsp;Tech Stack
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -17,3 +19,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="github.com/resendiz1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=resendiz_&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=resendiz_&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
