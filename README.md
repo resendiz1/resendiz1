@@ -4,7 +4,14 @@
 </div>
 
 <br>
-<br>
+<a href="https://www.linkedin.com/in/arturo-resendiz-2326741a0/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<br />
+
+<br />
+<br />
 <br>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -29,3 +36,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=resendiz1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+
